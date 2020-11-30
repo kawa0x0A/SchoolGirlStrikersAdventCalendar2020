@@ -24,6 +24,7 @@ url: "/SchoolGirlStrikersAdventCalendar2020" # the base hostname & protocol for 
 
 # Build settings
 theme: minima
+permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-feed
 
