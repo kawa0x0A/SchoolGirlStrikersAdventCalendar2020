@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: スクールガールストライカーズ2 アドベントカレンダー 2020
-url: "https://kawa0x0a.github.io/SchoolGirlStrikersAdventCalendar2020" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "/SchoolGirlStrikersAdventCalendar2020" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: thelehhman/texture
