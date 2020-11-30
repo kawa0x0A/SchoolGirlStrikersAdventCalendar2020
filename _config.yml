@@ -29,6 +29,12 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   
+texture:
+  title: スクールガールストライカーズ2 アドベントカレンダー 2020
+  style: green
+  social_links:
+    twitter: kawa0x0A
+    github:  kawa0x0A
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
