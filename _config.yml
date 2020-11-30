@@ -23,11 +23,12 @@ baseurl: "https://kawa0x0a.github.io" # the subpath of your site, e.g. /blog
 url: "/SchoolGirlStrikersAdventCalendar2020" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+remote_theme: thelehhman/texture
 permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-feed
-
+  - jekyll-remote-theme
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
