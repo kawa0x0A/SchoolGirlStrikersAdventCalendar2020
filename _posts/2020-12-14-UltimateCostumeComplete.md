@@ -20,7 +20,7 @@ title : 究極変身URメモカコンプリートの報告
 
 ![小織URメモカ1]({{ site.baseurl }}/assets/images/posts/20201214_KoriUR1.PNG)
 
-![小織URメモカ2]]({{ site.baseurl }}/assets/images/posts/20201214_KoriUR2.PNG)
+![小織URメモカ2]({{ site.baseurl }}/assets/images/posts/20201214_KoriUR2.PNG)
 
 日付を確認したら、ちょうど1週間前でした。  
 ~~コンプしたことを忘れたら記事の貴重なネタを失うところだった~~
