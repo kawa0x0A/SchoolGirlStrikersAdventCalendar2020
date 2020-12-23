@@ -7,7 +7,7 @@ title : 「感謝祭2020 今年はリモートで忘年会っぽいことをや�
 
 「感謝祭2020 今年はリモートで忘年会っぽいことをやりますSP」の動画が公開されました。  
 Youtubeにアーカイブも残っていますので、まだ見ていない隊長さんはぜひどうぞ  
-https://www.youtube.com/watch?v=Z7lgjkxUTE0
+[https://www.youtube.com/watch?v=Z7lgjkxUTE0](https://www.youtube.com/watch?v=Z7lgjkxUTE0)
 
 動画が公開されたときの様子や感想などメモがてら書いておきます。
 
@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=Z7lgjkxUTE0
 
 また、動画の最後で「『スクスト裏資料 2020』公開！」が発表されました。
 こちらも要チェックですね。  
-http://schoolgirlstrikers.jp/2020-2021_campaign/book.html
+[http://schoolgirlstrikers.jp/2020-2021_campaign/book.html](http://schoolgirlstrikers.jp/2020-2021_campaign/book.html)
